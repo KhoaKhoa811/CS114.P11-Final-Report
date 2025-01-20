@@ -47,3 +47,7 @@
 | 1      | 22521465      | Huỳnh Dương Tiến       |[huynhduongtien171003](https://github.com/huynhduongtien171003) |22521465@gm.uit.edu.vn   |
 | 2      | 22520811      | Huỳnh Ngọc Bảo Long    |                                                                |22520811@gm.uit.edu.vn   |
 | 3      | 22520683      | Nguyễn Võ Anh Khoa     |                                                                |22520683@gm.uit.edu.vn   |
+## ĐỒ ÁN MÔN HỌC:
+### ĐỒ ÁN 1: DỰ ĐOÁN ĐIỂM CỦA SINH VIÊN TỪ DỮ LIỆU WECODE
+### ĐÒ ÁN 2: NHẬN DIỆN HÃNG XE QUA ẢNH CHỤP
+
